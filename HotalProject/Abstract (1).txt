@@ -1,0 +1,49 @@
+HOTEL MANAGEMENT SYSTEM
+ABSTRACT:
+This project aims at creating on Hotel Management System which can be used by Admin and Customers. The admin to advise the availability of rooms in hotels and customers are checking the availability of room in hotel.  They should be able to reserve the available rooms according to their need in advance to make their stay comfortable. The Admin hands the booking information of customers. The users can register and log into the system. The administrator will know the details of reservation . The hotel department maintain the seat availability and booking details in certain database. 
+
+EXISTING SYSTEM:
+In the existing system, it provides the information about  hotel. The following pages we are making in it as follows:-
+1.)Register Page
+2.)Login page
+3.)Total Employees
+4.)Availability of Total Rooms and Type of Room
+5.)creating main reception fraame of the project
+6.)Checkout Frame
+7.)customer Details
+
+
+PROPOSED SYSTEM:
+The hotel management system provides the quality service to the end user. This project aims at creating on Hotel Management System which can be used by Admin and Customers. The admin to advise the availability of rooms in  hotels and customers are checking the availability of room in hotel.  They should be able to reserve the available rooms according to their need in advance. To make their stay comfortable. The Admin hands the booking information of customers. The users can register and log into the system. The administrator will know the details of reservation and daily income.
+ADVANTAGES:
+
+•	To overcome the problems of Existing System, online hotel management system is proposed.
+•	It provides the good publishing services to end users. Means the admin can publish the availability of rooms in  hotels and this information visible at users/customer side. So, it providing the good publishing process. 
+•	The central objective of hotel management is to provide online facility for booking rooms.
+•	This project provides high security to Admin and user information
+•	This software can manage and keep records of hotel.
+MODULE:
+1.	Admin: 
+        Admin can publish the information about rooms’ availability of different hotels. Admin can maintain the details of reservation and daily income.
+2.	User/Customer: 
+The customer need to register and then he/she getting the service usage permission. After login, the customers are checking the availability of room in required hotel. The customer can able to reserve the available rooms according to their need in advance. 
+3.	Book Room:
+The customer can book the room. The customer can book the room with the help of the hotel id, which includes the check-in date (user want to use the room in particular day).
+
+
+4.	Check-out
+When the customer want move from the room (check-out date), then he/she can update the information to the Admin by clicking of check-out option. The information is available at admin side as like the room is available to next customers.
+
+SOFTWARE REQUIREMENTS:
+•	Languages			: 	Java
+•	Technologies		: 	J2SE & J2EE
+•	Web server		: 	Apache Tomcat server
+•	Data base			: 	My SQL
+•	Operating system     	:	 windows  xp/7/8/10
+HARDWARE REQUIREMENTS:
+•	Hard disk		: 	100GB
+•	RAM			:          512 mb.
+•	Processor		: 	Intel Pentium 4.
+
+ 
+

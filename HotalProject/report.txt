@@ -1,0 +1,26 @@
+						Hotel management project report
+
+
+
+Introduction:
+     
+	Online Hotel Management is a java web application project. that is an offline platform for customers to book online hotel rooms.It will help you, the hotel owner,
+to manage their customer details that will save time and money. let’s understand all the functionality and user role for the hotel management project.
+
+There are two main actors of the application,
+
+1.User or Customer.
+2.Admin or Hotel owner.
+
+Admin or hotel owner:
+
+     Admin can add the new hotel according to the city or location. Admin can delete the hotel records. Admin can Add/Delete/Edit any user in the application.
+ Admin can manage all the booked records as well.
+
+User or Customer:
+
+     The user can perform login and registration operations in the application.Users can book hotels or rooms after filling some simple forms.
+ Users can manage all the booked history as well.The Hotel Management System project in java is developed for all the platforms. Which will be deployed on
+ the local server called tomcat.
+
+    
